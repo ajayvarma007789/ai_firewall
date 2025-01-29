@@ -1,2 +1,2 @@
 # ai_firewall
-an ai firewall, it secures the llms or chatbots that are bootstrapped with it. build using python, ollama, and langchain  
+building website,that has a secure llm with firewall technology that filters prompt injections using deepseek r1 chain of thinking reasoning model 
